@@ -21,6 +21,7 @@
 
 ## 💼 MIS PROYECTOS 
 🔹Sistema de gestión de eventos para la Fundación Teatro Juares: https://github.com/GonzalezM27/teatro_juares
+
 🔹Aplicación móvil para la Fundación Teatro Juares: https://github.com/Joseaee/fundacion_Teatro_Juares_APP
 
  
