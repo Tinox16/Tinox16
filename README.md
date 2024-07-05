@@ -1,4 +1,4 @@
-## SOBRE MI 👨‍💻
+## 👨‍💻 SOBRE MI 
 
 ¡Hola! 👋 Me llamo Hendherson, soy desarrollador front-end 💻 y desarrollador de aplicaciones móviles 📱
 
@@ -6,7 +6,7 @@
 
 🔹Amante del CSS 💙 / JavaScript 💛 / Videojuegos 🎮 / Ejercicio 🏋️‍♂️ 
 
-## HABILIDADES 💻
+## 💻 HABILIDADES 
 🔹FRONT_END = [
 ![front_end](https://github.com/Tinox16/Tinox16/assets/140275664/9944773d-23cd-4e78-ad4b-c4194f926085)
 ];
@@ -19,7 +19,7 @@
 ![desarrollo](https://github.com/Tinox16/Tinox16/assets/140275664/6cd0aef4-4188-4833-8a0a-18f766b42e1a)
 ];
 
-## MIS PROYECTOS 💼
+## 💼 MIS PROYECTOS 
 🔹Sistema de gestión de eventos para la Fundación Teatro Juares: https://github.com/GonzalezM27/teatro_juares
 🔹Aplicación móvil para la Fundación Teatro Juares: https://github.com/Joseaee/fundacion_Teatro_Juares_APP
 
