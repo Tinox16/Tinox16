@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Me llamo Hendherson, soy desarrollador front-end 💻 y desarrollador de aplicaciones móviles 📱
 
-🔹Ingeniero informático 🎓 
+🔹Técnico Superior en informática 🎓 
 
 🔹Amante del CSS 💙 / JavaScript 💛 / Videojuegos 🎮 / Ejercicio 🏋️‍♂️ 
 
