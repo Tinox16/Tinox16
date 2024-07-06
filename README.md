@@ -20,8 +20,7 @@
 ];
 
 ## 💼 MIS PROYECTOS 
-🔹Sistema de gestión de eventos para la Fundación Teatro Juares: https://github.com/GonzalezM27/teatro_juares
+![Timmy-Turners-Dad-meme-1](https://github.com/Tinox16/Tinox16/assets/140275664/ae523ac5-faf5-4dfe-9a35-b15319279328)
 
-🔹Aplicación móvil para la Fundación Teatro Juares: https://github.com/Joseaee/fundacion_Teatro_Juares_APP
 
  
